@@ -49,6 +49,6 @@
     "glob": "^4.0.5"
   },
   "dependencies": {
-    "ember-cli-velocity": "^0.2.5"
+    "ember-cli-velocity": "git://github.com/kayleg/ember-cli-velocity"
   }
 }
